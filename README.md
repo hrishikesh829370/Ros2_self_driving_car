@@ -13,13 +13,13 @@ Functionalities:
     Utilized a custom CNN for object classification.
     Implemented Dijkstra's and A* algorithms for path planning.
 
-The World:![world](https://github.com/hrishikesh829370/Ros2_self_driving_car/assets/131910887/af6f7590-821c-4449-9545-6287c3107b12)
+The World:
+![world](https://github.com/hrishikesh829370/Ros2_self_driving_car/assets/131910887/af6f7590-821c-4449-9545-6287c3107b12)
 
 
 A realistic city environment created in Blender and simulated in Gazebo.
 
 Traffic Signal Recognition:
-
 ![traffic_signal](https://github.com/hrishikesh829370/Ros2_self_driving_car/assets/131910887/fb6eeadc-ab3d-422c-94b8-7b6844594673)
 
 The car identifies the traffic signal (red light) and comes to a stop.
