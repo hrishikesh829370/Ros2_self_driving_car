@@ -5,4 +5,8 @@ Developed Computer-Vision pipeline for lane detection and traffic signal recogni
 Implemented control algorithm for navigating intersections and cruise control
 Utilized custom CNN for object classification and Implemented Dijkstra's and A* algorithms for path planning
 
-![traffic_signs_boards](https://github.com/hrishikesh829370/Ros2_self_driving_car/assets/131910887/4e3fde5d-a8b7-4dd4-a81a-e60d39729ca1)
+
+![traffic_signal](https://github.com/hrishikesh829370/Ros2_self_driving_car/assets/131910887/fb6eeadc-ab3d-422c-94b8-7b6844594673)
+
+The city has been designed in Blender.
+![world](https://github.com/hrishikesh829370/Ros2_self_driving_car/assets/131910887/af6f7590-821c-4449-9545-6287c3107b12)
