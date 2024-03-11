@@ -1,15 +1,5 @@
 # Ros2_self_driving_car
-A Level 3 Self driving car with OSRF packages. 
-The City has been designed in Blender, simulated in Gazebo with ROS2 Framework. 
-A Perception Pipeline has been created for lane detection and traffic signal recognition. 
-An advanced control algorithm for navigating T-junctions , intersections and for cruise control has been implemented.
-Utilized custom CNN for object classification and Implemented Dijkstra's and A* algorithms for path planning
 
-The world!
-
-
-
-The car identifying the traffic signal and navigating accordingly.
 
 Ros2_Self-Driving_Car
 
